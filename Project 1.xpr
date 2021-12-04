@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\QProject%201.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="Project%201.xpr">
+        <folder path="file:/C:/Program%20Files/Oxygen%20XML%20Author%2024/"/>
+    </projectTree>
+</project>

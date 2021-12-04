@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_demo">
+    <title>How to start the Calculator app?</title>
+    <shortdesc>Here you will the information on how to start the calculator app on your
+        smartphone.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_afc_3cd_m4b">
+            <p>To use the Calculator app, you need to unlock the phone first</p>
+        </prereq>
+        <context>
+            <p>You can use the Calculator app on your smartphone. You will find it useful when you
+                need to quickly calculate some numbers.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Navigate to the Calculator application icon.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the icon.</cmd>
+            </step>
+        </steps>
+        <result id="result_khj_zjz_srb">
+            <p>The application starts.</p>
+            <p>You are now ready to calcute with it.</p>
+        </result>
+        <example id="example_lr5_nkz_srb">For instance, if you have purchased a book for 15 and
+            you've given $10, how much change you should expect? Answer is 10-5=5,  $5
+            change.</example>
+    </taskbody>
+</task>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_demo">
+    <title>Starting the Calculator Tool</title>
+    <shortdesc>Here you will the information about starting with your calculator.</shortdesc>
+    <taskbody>
+        <context id="context_tpg_d4z_srb">
+            <p>Your Windows computer comes with an integrated Calculator tool. This tool allows you
+                to perform various types of calculations ranging from basic arithmetic operations
+                (subtract, divide, multiply) to advanced operations such as calculating a square
+                root.</p>
+        </context>
+        <steps id="steps_upg_d4z_srb">
+            <step>
+                <cmd>Click on your Windows start button.</cmd>
+            </step>
+            <step>
+                <cmd>In the search bar, type Calculator. The system will show a list of results
+                    including the Calculator tool.</cmd>
+            </step>
+            <step>
+                <cmd>Click the Calculator tool in the list of found applications.</cmd>
+            </step>
+        </steps>
+        <result id="result_khj_zjz_srb">
+            <p>The Calculator tool is started and is ready to use.</p>
+        </result>
+    </taskbody>
+</task>
