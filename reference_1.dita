@@ -8,7 +8,7 @@
             <title>Reference Info 1<ph>Test to be reused.</ph></title>
         </data>
         <table frame="all" rowsep="1" colsep="1" id="table_lth_jkw_wrb">
-            <title>Test</title>
+            <title>Test 1</title>
             <tgroup cols="2" audience="expert">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
@@ -29,13 +29,13 @@
                     </row>
                     <row>
                         <entry/>
-                        <entry/>
+                        <entry><ph/></entry>
                     </row>
                 </tbody>
             </tgroup>
         </table>
         <section id="section_gbt_pkw_wrb">
-            <title>Tables</title>
+            <title>Test 2</title>
             <p/>
             <table frame="all" rowsep="1" colsep="1" id="table_gmy_5kw_wrb">
                 <title>Table 1</title>
@@ -59,6 +59,43 @@
                         </row>
                         <row>
                             <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_wvl_xvw_wrb">
+            <title>Test 3</title>
+            <p/>
+            <table frame="all" rowsep="1" colsep="1" id="table_ugx_zvw_wrb">
+                <title/>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Col 1</entry>
+                            <entry>Col 2</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row audience="expert">
+                            <entry>
+                                <p audience="expert">For experts</p>
+                            </entry>
+                            <entry/>
+                        </row>
+                        <row audience="novice">
+                            <entry>
+                                <p audience="novice">For novice</p>
+                            </entry>
+                            <entry/>
+                        </row>
+                        <row audience="expert novice">
+                            <entry>
+                                <p audience="expert novice">For experts and novice</p>
+                            </entry>
                             <entry/>
                         </row>
                     </tbody>
