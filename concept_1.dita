@@ -2,8 +2,13 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_1">
     <title>Concept 1</title>
-    <shortdesc></shortdesc>
+    <shortdesc>This is concept about 5th.</shortdesc>
     <conbody>
-        <p></p>
+        <p>This user guide is for novice users.</p>
+        <p>This user guide is for expert users.</p>
+        <example id="example_xfs_qpw_wrb">test</example>
+        <section id="section_hgg_spw_wrb"><title>Concept Explanation 1</title><p>It's Me!</p><image
+                href="file:/C:/Users/Furkh/OneDrive/Desktop/IMG-20210527-WA0017.jpg"
+                id="image_dkw_3qw_wrb"/></section>
     </conbody>
 </concept>
