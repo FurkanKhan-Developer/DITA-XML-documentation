@@ -9,7 +9,7 @@
         </data>
         <table frame="all" rowsep="1" colsep="1" id="table_lth_jkw_wrb">
             <title>Test</title>
-            <tgroup cols="2">
+            <tgroup cols="2" audience="expert">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
                 <thead>
@@ -39,7 +39,7 @@
             <p/>
             <table frame="all" rowsep="1" colsep="1" id="table_gmy_5kw_wrb">
                 <title>Table 1</title>
-                <tgroup cols="2">
+                <tgroup cols="2" audience="novice">
                     <colspec colname="c1" colnum="1" colwidth="1*"/>
                     <colspec colname="c2" colnum="2" colwidth="1*"/>
                     <thead>
