@@ -4,8 +4,8 @@
     <title>Concept 1</title>
     <shortdesc>This is concept about 5th.</shortdesc>
     <conbody>
-        <p>This user guide is for novice users.</p>
-        <p>This user guide is for expert users.</p>
+        <p audience="novice">This user guide is for novice users.</p>
+        <p audience="expert">This user guide is for expert users.</p>
         <example id="example_xfs_qpw_wrb">test</example>
         <section id="section_hgg_spw_wrb"><title>Concept Explanation 1</title><p>It's Me!</p><image
                 href="file:/C:/Users/Furkh/OneDrive/Desktop/IMG-20210527-WA0017.jpg"
