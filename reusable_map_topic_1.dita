@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reusable_map_topic_1">
+    <title>Reusable Map Topic 1</title>
+    <shortdesc/>
+    <conbody>
+        <p id="my_p_to_reuse">Here is my feature description:<ul id="ul_pdz_cvp_wrb">
+                                <li>Feature 1<ul id="ul_klg_gvp_wrb">
+                                                <li>Feature 2<ul id="ul_ssj_hvp_wrb">
+                                                  <li>Feature 3</li>
+                                                  </ul><ul id="ul_k5c_s3w_wrb">
+                                                  <li/>
+                                                  </ul></li>
+                                        </ul></li>
+                        </ul></p>
+    </conbody>
+</concept>

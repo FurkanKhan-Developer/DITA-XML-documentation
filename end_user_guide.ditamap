@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End-User Guide</title>
+    <topicref href="concept_1.dita">
+        <mapref href="reusable_map_content.ditamap" format="ditamap"/>
+        <topicref href="reusable_map_topic_1.dita"/>
+    </topicref>
+    <topicref href="my_task.dita"/>
+    <topicref href="second_task.dita"/>
+    <topicref href="third_task.dita">
+        <topicref href="fourth_task.dita"/>
+    </topicref>
+    <topicref href="reference_1.dita"/>
+    <topicref href="map_2.ditamap" format="ditamap">
+        <topicref href="reference_2.dita"/>
+        <topicref href="reusable_map_topic_1.dita"/>
+    </topicref>
+</map>
