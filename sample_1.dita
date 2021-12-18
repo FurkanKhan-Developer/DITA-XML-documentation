@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="sample_1">
+    <title>Sample_1</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p rev="1.0">Here is some more content.</p>
+        <p product="product1">Here is my content. No profiling applied here!</p>
+        <p Furkan="novice">Novice users start with step A.</p>
+        <p Furkan="expert">Experienced users start with step B directly.</p>
+    </conbody>
+</concept>
