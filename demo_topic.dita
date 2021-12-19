@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="demo_topic">
+    <title>DITA Links</title>
+    <body>
+        <p>Some sample text
+            
+            <xref href="http://www.google.com" format="html" scope="external"/></p>
+        <p>Here is some more text, see <xref href="topic_2.dita"/></p>
+        <p>Here is my CV.<xref href="file:/C:/Users/Furkh/OneDrive/Desktop/New%20Resume.docx"
+                format="docx"/></p>
+    </body>
+</topic>

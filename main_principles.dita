@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="main_principles">
+    <title>Main Principles</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>
+            <imagemap id="imagemap_xmx_zcv_yrb">
+                <image href="file:/C:/Users/Furkh/Downloads/1639849789.jpg" id="image_hmg_4z5_yrb"/>
+                <area>
+                    <shape>rect</shape>
+                    <coords>421, 27, 534, 115</coords>
+                    <xref href="principle_1.dita" format="dita">Knowing your audience is always
+                        useful before starting your documentation.</xref>
+                </area>
+                <area>
+                    <shape>circle</shape>
+                    <coords>510, 226, 50</coords>
+                    <xref href="principle_2.dita" format="dita">Always decide your deliverables for
+                        work.</xref>
+                </area>
+                <area>
+                    <shape>poly</shape>
+                    <coords>375, 273, 425, 342, 436, 409, 324, 417, 331, 342</coords>
+                    <xref href="principle_3.dita" format="dita">Your content should be
+                        well-formatted and -structured.</xref>
+                </area>
+            </imagemap>
+        </p>
+    </conbody>
+</concept>

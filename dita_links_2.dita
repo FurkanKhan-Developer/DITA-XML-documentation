@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="dita_links_2">
+    <title>DITA Links 2</title>
+    <body>
+        <p></p>
+        <section id="section_1">
+            <title>Section 1</title>
+            <p>Here is my content....</p>
+        </section>
+        <section id="section_2">
+            <title>Section 2</title>
+            <p>Enter even more content! See section 1 for more details:<xref
+                    href="#dita_links_2/section_1" format="dita"/></p>
+        </section>
+    </body>
+</topic>
